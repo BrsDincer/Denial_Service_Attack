@@ -1,0 +1,12 @@
+https://www.google.com/?q={site}
+https://www.usatoday.com/search/results?q={site}
+https://engadget.search.aol.com/search?q={site}
+http://www.facebook.com/sharer/sharer.php?u={site}
+http://validator.w3.org/check?uri={site}
+https://jigsaw.w3.org/css-validator/validator?uri={site}&profile=css3&usermedium=all&vextwarning=true
+https://jigsaw.w3.org/css-validator/validator?uri={site}
+https://validator.w3.org/nu/?doc={site}
+https://downforeveryoneorjustme.com/{site}
+https://api.hackertarget.com/dnslookup/?q={site}
+https://www.rtsak.com/dns-lookup/{site}
+https://sitereport.netcraft.com/?url={site}
